@@ -1,0 +1,2 @@
+[ project ] A graph(s) component has no resource (recipe) directory. Component name: server
+[ project ] A graph(s) component has no resource (recipe) directory. Component name: vm
